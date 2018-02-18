@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KHALISA VIRRA_1202154312_MODUL2</string>
+    <string-array name="meja">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+        <item>Meja 7</item>
+    </string-array>
+</resources>
